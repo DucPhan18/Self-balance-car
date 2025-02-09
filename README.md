@@ -14,3 +14,4 @@
 # Schematic
 ![Self Balance car_bb](https://github.com/user-attachments/assets/669eb8aa-81c4-47c8-9345-c67ae7ee04a5)
 # Result
+[![Watch the video](https://raw.githubusercontent.com/DucPhan18/Self-balance-car/main/Video/thumbnail.png)](https://raw.githubusercontent.com/DucPhan18/Self-balance-car/main/Video/result.mp4)
