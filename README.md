@@ -1,6 +1,6 @@
 # Self-balance-car
 *Stem project of group 1 class 11A7*
-# Part list:
+## Part list:
 - 1 arduino nano
 - 1 breadboard MB-102 400 holes
 - 1 motor driver L298N
@@ -11,7 +11,7 @@
 - 1 3-battery 18650 base (series connected) with switch
 - 3 18650 batteries
 - Wires
-# Schematic
+## Schematic
 ![Self Balance car_bb](https://github.com/user-attachments/assets/669eb8aa-81c4-47c8-9345-c67ae7ee04a5)
-# Result
-[![Watch the video](https://raw.githubusercontent.com/DucPhan18/Self-balance-car/main/Video/thumbnail.png)](https://raw.githubusercontent.com/DucPhan18/Self-balance-car/main/Video/result.mp4)
+## Demo
+ - 🔗 [![youtube](https://img.shields.io/badge/▶_Youtube-red)](https://youtube.com/shorts/zwRVbybAC9I)
