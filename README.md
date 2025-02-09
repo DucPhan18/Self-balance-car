@@ -12,7 +12,7 @@
 - 3 18650 batteries
 - Wires
 ## Schematic
-![Self Balance car_bb](https://github.com/user-attachments/assets/669eb8aa-81c4-47c8-9345-c67ae7ee04a5)
+![Self Balance car_bb](https://raw.githubusercontent.com/DucPhan18/Self-balance-car/refs/heads/main/Schematic/Self%20Balance%20car_bb.png)
 ## Demo
 [![youtube](https://img.shields.io/badge/▶_Youtube-red)](https://youtube.com/shorts/zwRVbybAC9I)
 ## License
