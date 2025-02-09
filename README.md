@@ -1,5 +1,5 @@
 # Self-balance-car
-*Stem project of group 1 class 11A7*
+### `Stem project of group 2 class 11A7`
 ## Part list:
 - 1 arduino nano
 - 1 breadboard MB-102 400 holes
@@ -15,3 +15,5 @@
 ![Self Balance car_bb](https://github.com/user-attachments/assets/669eb8aa-81c4-47c8-9345-c67ae7ee04a5)
 ## Demo
  - 🔗 [![youtube](https://img.shields.io/badge/▶_Youtube-red)](https://youtube.com/shorts/zwRVbybAC9I)
+## License
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://github.com/DucPhan18/Self-balance-car/tree/main?tab=GPL-3.0-1-ov-file)
